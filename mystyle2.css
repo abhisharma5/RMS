@@ -1,0 +1,127 @@
+*{
+    color: #fff;
+}
+.form-group{
+    color: blanchedalmond;
+    margin:30px;
+}
+body{
+    height:100%;
+    width:100%;
+    background: url(images/bgclock.jpg) no-repeat;width:100% height:100vh;
+}
+.bg{
+    margin-top: 30px;
+}
+.form-container{
+    border:0px solid #fff; padding:50px 60px;margin-top: 20vh;
+    -webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+    
+}
+.btn-warning{
+    margin-left: 40%;
+}
+.title{
+    margin-left: 25%;
+    margin-top:40px;
+}
+.options{height:500px;
+    width:400px;
+    border:0px solid #fff;
+    padding:50px 60px;
+    margin-top:30px;
+    margin-left:35%;
+    -webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+.set-reminder{
+    height:800px;
+    width:700px;
+    padding:50px 60px;
+    margin-bottom: 30px;
+    margin-top:30px;
+    margin-left:35%;
+    border:0px solid #fff; padding:50px 60px;margin-top: 20vh;
+    -webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+.{
+    width:30%;
+    
+}
+.modify-reminder{
+    height:700px;
+    width:700px;
+    padding:50px 60px;
+    margin-bottom: 30px;
+    margin-top:30px;
+    margin-left:35%;
+    border:0px solid #fff; padding:50px 60px;margin-top: 20vh;
+    -webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+.disable-reminder{
+    height:500px;
+    width:700px;
+    padding:50px 60px;
+    margin-bottom: 30px;
+    margin-top:30px;
+    margin-left:35%;
+    border:0px solid #fff; padding:50px 60px;margin-top: 20vh;
+    -webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+.enable-reminder{ height:700px;
+    width:700px;
+    padding:50px 60px;
+    margin-bottom: 30px;
+    margin-top:30px;
+    margin-left:35%;
+    border:0px solid #fff; padding:50px 60px;margin-top: 20vh;
+    -webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+
+}
+.delete-reminder{
+    height:500px;
+    width:700px;
+    padding:50px 60px;
+    margin-bottom: 30px;
+    margin-top:30px;
+    margin-left:35%;
+    border:0px solid #fff; padding:50px 60px;margin-top: 20vh;
+    -webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+
+}
+.view-reminder{
+    height:1000px;
+    width:1000px;
+    padding:50px 60px;
+    margin-bottom: 30px;
+    margin-top:30px;
+    margin-left:20%;
+    border:0px solid #fff; padding:50px 60px;margin-top: 20vh;
+    -webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+option{
+    color: black;
+}
+#datepicker-6{
+    color:black;
+}
+.logo{
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
